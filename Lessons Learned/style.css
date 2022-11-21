@@ -1,0 +1,83 @@
+body {
+    margin-top: 150px;
+    background-color: rgb(253, 251, 251);
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    line-height: 1.2;
+    color: rgb(20, 20, 20);
+    font-size: 17px;
+}
+
+#cabecalho {
+    left: 0;
+    right: 0;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    color: whitesmoke;
+    background-color: green;
+}
+#cabecalho li{
+    text-align: left;
+    display: inline-block;
+    width:60px;
+    font-weight: bold;
+}
+
+.licoes{
+    display: inline-block;
+}
+
+#aboutme {
+    display: block;
+    border: 3px solid green;
+    width:100%;
+    margin: 0%;
+    padding: 0%;
+    padding-right: 0px;
+}
+
+#minha_foto{
+    left: 5px;
+    right: 0px;
+    width: 160px;
+    margin-right: 2px;
+}
+
+aside{
+    width: 80%;
+    float: right;
+    font-style: italic;
+    text-align: left;
+}
+
+#article{
+    
+}
+
+#licoes_aprendidas{
+
+}
+
+#licoes_a_aprender{
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+#rodape{
+display: block;
+background-color: green;
+color: whitesmoke;
+bottom: auto;
+}

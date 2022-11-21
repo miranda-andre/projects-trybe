@@ -1,0 +1,1 @@
+Usar linter (verifica erros CSS) - npm run lint:styles     (ps. rodar dentro da pasta em que estiver usando)
